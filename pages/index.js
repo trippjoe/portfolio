@@ -19,7 +19,7 @@ export default function Home() {
             alt='Joe Tripp'
             border="2px"
           />
-          <Heading size="lg" color="white">I'm Joe Tripp, a 23 year old full stack developer</Heading>
+          <Heading size="lg" color="white">I&apos;m Joe Tripp, a 23 year old full stack developer</Heading>
           <Heading size="md" color="white">Aside from programming I enjoy spending my time hiking and producing electronic music</Heading>
         </VStack>
       </Flex>
