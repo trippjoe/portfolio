@@ -11,4 +11,4 @@ This portfolio displays who I am and what I do. Including: Github project repo l
 * Chakra UI
 
 # Deployment
-https://trippjoe.github.io/portfolio
+https://trippjoe.vercel.app/
