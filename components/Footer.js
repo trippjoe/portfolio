@@ -6,7 +6,7 @@ import { RiLinkedinLine, RiMailLine } from 'react-icons/ri';
 function Footer() {
     return (
         <>
-            <Image zIndex="-7" alt="footer green svg background" position="absolute" bottom={0} src='../assets/images/footer-bg.svg' height="20vh" width="100vw" pt="70"></Image>
+            {/* <Image zIndex="-7" alt="footer green svg background" position="absolute" bottom={0} src='../assets/images/footer-bg.svg' height="20vh" width="100vw" pt="70"></Image> */}
             <Flex justify="center" maxH="10vh" maxW="100vw">
                 <HStack spacing="6">
                     <a target="_blank" rel="noreferrer" href="https://github.com/trippjoe/">
