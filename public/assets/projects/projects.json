@@ -4,26 +4,30 @@
         "description": "Plan your next big vacation with your tribe",
         "image": "traveltribe.png",
         "github": "https://github.com/trippjoe/traveltribe",
-        "deployment": "https://traveltribe.herokuapp.com/"
+        "deployment": "https://traveltribe.herokuapp.com/",
+        "tech": ["React", "GraphQL", "Chakra UI", "Node.js"]
     },
     {
         "name": "OpenGOAL Launcher",
         "description": "Setup and Launch the OpenGOAL project with ease",
         "image": "launcher.gif",
-        "github": "https://github.com/trippjoe/opengoal-launcher"
+        "github": "https://github.com/trippjoe/opengoal-launcher",
+        "tech": ["Electron", "React", "Chakra UI", "Node.js"]
     },
     {
         "name": "Fomo Mock Exchange",
         "description": "Experiment with stock trading without investing real money",
         "image": "fomo-exchange.png",
         "github": "https://github.com/trippjoe/fomo-mock-exchange",
-        "deployment": "https://fomo-exchange.herokuapp.com/"
+        "deployment": "https://fomo-exchange.herokuapp.com/",
+        "tech": ["Handlebars", "Bootstrap", "MySQL", "Node.js"]
     },
     {
         "name": "Bandspot",
         "description": "Find upcoming concerts based on your top spotify artists",
         "image": "bandspot.png",
         "github": "https://github.com/trippjoe/bandspot",
-        "deployment": "https://trippjoe.github.io/bandspot/"
+        "deployment": "https://trippjoe.github.io/bandspot/",
+        "tech": ["HTML", "Materialize", "Javascript"]
     }
 ]
