@@ -16,7 +16,7 @@ function Navbar() {
                 <Heading color="white"><Link href="/projects">Projects</Link></Heading>
                 {/* commenting out this nav link until i figure out the styling for the embedded resume pdf*/}
                 {/* <Heading color="white"><Link href="/resume">Resume</Link></Heading> */}
-                <Heading color="white"><a href="https://docs.google.com/document/d/e/2PACX-1vQpGtwP_vusVCAhIq-2YW3SZpEpmXX612rgPYFvC1jfpkjEJKUJDeShUJS9YyHfBWOyEJn52fPrdvpJ/pub" target="_blank" rel="noreferrer">Resume</a></Heading>
+                <Heading color="white"><a href="https://docs.google.com/document/d/1iQ13qVYcFTojTWqTqMh8zWADduocEJwVElU0uKbMVV4/edit?usp=sharing" target="_blank" rel="noreferrer">Resume</a></Heading>
             </HStack>
         </Flex >
     )
